@@ -18,3 +18,7 @@ const size = 30;
 drawCircle(x, y, size);
 
 // Add your code here
+
+//Create event listener to listen for keydown and activate event object
+
+window.addEventListener('keydown' (e))
