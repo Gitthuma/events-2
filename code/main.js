@@ -25,4 +25,25 @@ drawCircle(x, y, size);
 
 window.addEventListener('keydown', (e) => {
 
+  //Create switch statement for the keys to be tracked and moved by two units
+
+  switch(e.key) {
+    
+    case 'a':
+      x -= 2;
+      break;
+    
+    case 'w':
+      y -= 2;
+      break;
+
+    case 'd':
+      x += 2;
+      break;
+
+    case 's':
+      y += 2;
+
+  }
+
 })
