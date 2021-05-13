@@ -7,3 +7,5 @@ Now we'll look at keyboard events. To pass this assessment you need to build an 
 - size — the radius of the circle.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Events#events_2
+
+Live web: https://gitthuma.github.io/events-2/
