@@ -46,4 +46,8 @@ window.addEventListener('keydown', (e) => {
 
   }
 
+  //Add drawCircle function to draw circle in new position
+
+  drawCircle(x, y, size);
+
 })
