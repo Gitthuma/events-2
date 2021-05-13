@@ -21,4 +21,8 @@ drawCircle(x, y, size);
 
 //Create event listener to listen for keydown and activate event object
 
-window.addEventListener('keydown' (e))
+//Create a function for event object to activate
+
+window.addEventListener('keydown', (e) => {
+
+})
